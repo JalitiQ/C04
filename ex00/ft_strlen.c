@@ -6,13 +6,13 @@
 /*   By: lilian <lilian@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/02 07:15:57 by lilian            #+#    #+#             */
-/*   Updated: 2025/07/02 11:14:39 by lilian           ###   ########.fr       */
+/*   Updated: 2025/07/02 11:35:08 by lilian           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdio.h>
 
-int ft_strlen(char *str)
+int	ft_strlen(char *str)
 {
 	int	i;
 
