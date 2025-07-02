@@ -6,7 +6,7 @@
 /*   By: lilian <lilian@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/02 07:15:57 by lilian            #+#    #+#             */
-/*   Updated: 2025/07/02 07:20:23 by lilian           ###   ########.fr       */
+/*   Updated: 2025/07/02 11:14:39 by lilian           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,3 +23,9 @@ int ft_strlen(char *str)
 	}
 	return (i);
 }
+
+//int main(void)
+//{
+//	char st[] = "12345678ddddddddd9";
+//	printf("%d", ft_strlen(st));
+//}
